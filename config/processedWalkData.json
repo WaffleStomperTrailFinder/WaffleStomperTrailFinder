@@ -1,7 +1,7 @@
 {
     "MtStLeonardstoDonnellysWeirSmoother": {
         "title": "Mt St Leonards to Donnellys WeirSmoother",
-        "id": "MtStLeonardstoDonnellysWeirSmoother",
+        "id": 100000,
         "distance_raw": 23.34,
         "parks": {
             "155840": "Yarra Ranges National Park"
@@ -32,9 +32,9 @@
         "duration_raw": 8.8,
         "duration": "8.8hrs"
     },
-    "Lorne": {
+    "lorne": {
         "title": "Lorne",
-        "id": "Lorne",
+        "id": 100001,
         "distance_raw": 23.95,
         "distance": "23.95km",
         "grade_raw": 4,
